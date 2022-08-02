@@ -2,11 +2,6 @@
 
 **Marque o texto**
 
-Nesta atividade, temos um texto zipado com as palavras "Você pode aprender qualquer coisa" e um vídeo feito pela Khan Academy.<br>
-Usando as tags ***que você acabou de aprender, marque o texto para mostrar o que você acha que deve ser enfatizado e destacado.***
+Nesta atividade, a partir de um texto zipado e de uma imagem JPG, foi construída uma página HTML.
 
-***[baixe aqui](https://drive.google.com/file/d/1GckMLXiyjDjrsFaNeJ4vg5H2dv4cdmh0/view?usp=sharing)***
-
-***Fonte: Khan Academy***
-
-***[Visit Khan Academy](https://pt.khanacademy.org/computing)***
+O resultado está disponível nos arquivos index.html e style.css
