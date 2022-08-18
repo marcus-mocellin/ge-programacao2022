@@ -5,3 +5,5 @@
 Nesta atividade, a partir do texto zipado `texto.zip` e da imagem `creative.jpg`, foi construída uma **página HTML**.
 
 O resultado obtido pode ser reproduzido a partir dos arquivos `index.html` e `style.css`.
+
+Todos os arquivos aqui descritos estão disponíveis na pasta `tags`.
